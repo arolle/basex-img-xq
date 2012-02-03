@@ -1,0 +1,13 @@
+<package xmlns="http://expath.org/ns/pkg" 
+	 name="http://basex.org/util/img" 
+  	 abbrev="basex-img-xq" 
+	 version="1.0"
+	 spec="1.0">
+
+  <title>Test package with JAR file</title>
+  <dependency processor="basex"/>
+  <xquery>
+    <namespace>http://basex.org/util/img</namespace>
+    <file>wrapper.xq</file>
+  </xquery>
+</package>

@@ -1,0 +1,6 @@
+<package xmlns="http://www.basex.org/modules/pkg">
+
+   <jar>basex-img-xq-1.0.jar</jar>
+   <class>org.basex.module.util.img.ImageHandling</class>
+
+</package>
